@@ -1,0 +1,14 @@
+
+body{
+  width: 700px;
+  padding: 0 14 0 14;
+}
+
+
+div {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+	  
